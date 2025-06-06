@@ -8,15 +8,6 @@
 💬 Ask me about building **mobile apps with Flutter**, **RESTful APIs with Laravel**, or **full-stack app development**  <br>
 ⚡ Fun fact: I started as a web developer, fell in love with Flutter, and now I blend both worlds to build powerful apps 🚀<br>
 
-<h2>⚡️ Where to find me</h2>
-<p>
-  <a target="_blank" href="https://www.instagram.com/cho_aryant">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
-  </a>
-</p>
-
----
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -35,10 +26,8 @@
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chochocookies&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=chochocookies&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chochocookies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 > “Trust me, comfort is a trap.” — E|A
@@ -46,7 +35,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=chochocookies&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h2>❤️ Support Me</h2>
 <p>
 <a href="https://www.buymeacoffee.com/chochocookies">
