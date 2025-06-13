@@ -24,6 +24,5 @@
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
-![Snake animation](https://raw.githubusercontent.com/chochocookies/chochocookies/output/github-contribution-grid-snake.svg)
+[Snake animation](https://raw.githubusercontent.com/chochocookies/chochocookies/output/github-contribution-grid-snake.svg)
 
----s
